@@ -1,0 +1,8 @@
+numpy
+pandas
+tqdm
+pillow
+torchvision
+torch==1.9.0+cu100
+argparse
+os
